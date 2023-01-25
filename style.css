@@ -92,6 +92,7 @@ input {
 .fa-twitter {
   color: rgb(9, 180, 248);
 }
+/* media query */
 @media (max-width: 600px) {
   .container {
     margin: 1rem;
